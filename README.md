@@ -7,6 +7,7 @@ Solved Poblems are as follows
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0724-find-pivot-index](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -40,4 +41,8 @@ Solved Poblems are as follows
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/0217-contains-duplicate) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
