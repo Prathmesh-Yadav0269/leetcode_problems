@@ -12,6 +12,7 @@ Solved Poblems are as follows
 | [0217-contains-duplicate](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0486-predict-the-winner](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/0486-predict-the-winner) |
 | [0724-find-pivot-index](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/0724-find-pivot-index) |
+| [0877-stone-game](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/1672-richest-customer-wealth) |
@@ -21,6 +22,7 @@ Solved Poblems are as follows
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Matrix
 |  |
@@ -53,6 +55,7 @@ Solved Poblems are as follows
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -61,12 +64,15 @@ Solved Poblems are as follows
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/0877-stone-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
