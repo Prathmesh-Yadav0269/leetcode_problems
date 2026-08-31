@@ -86,4 +86,8 @@ Solved Poblems are as follows
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
