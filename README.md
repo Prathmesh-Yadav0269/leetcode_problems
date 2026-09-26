@@ -8,6 +8,7 @@ Solved Poblems are as follows
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0486-predict-the-winner](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/0486-predict-the-winner) |
@@ -57,6 +58,7 @@ Solved Poblems are as follows
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0486-predict-the-winner](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/1406-stone-game-iii) |
@@ -85,6 +87,7 @@ Solved Poblems are as follows
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Linked List
 |  |
