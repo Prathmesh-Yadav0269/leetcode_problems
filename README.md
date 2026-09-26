@@ -93,4 +93,12 @@ Solved Poblems are as follows
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
