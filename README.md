@@ -18,6 +18,7 @@ Solved Poblems are as follows
 | [1406-stone-game-iii](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/1406-stone-game-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/1672-richest-customer-wealth) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1920-build-array-from-permutation](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -46,6 +47,7 @@ Solved Poblems are as follows
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/0217-contains-duplicate) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -101,4 +103,5 @@ Solved Poblems are as follows
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/0125-valid-palindrome) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Prathmesh-Yadav0269/leetcode_problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 <!---LeetCode Topics End-->
